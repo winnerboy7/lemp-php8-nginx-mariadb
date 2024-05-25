@@ -1,5 +1,6 @@
-# mysql
-mysql/
-
 # Logs
 logs
+*.log
+
+# Mysql
+mysql/*
