@@ -47,5 +47,5 @@ services:
       - mariadb
 
 # Volumes
-volumes:
-  mysqldata:
+# volumes:
+#   mysqldata:
