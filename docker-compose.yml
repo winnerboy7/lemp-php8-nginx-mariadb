@@ -18,7 +18,7 @@ services:
     image: nginx:latest
     container_name: webserver
     ports:
-      - 80:80
+      - 82:80
       - 443:443
     links:
       - php
